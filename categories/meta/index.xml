@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Computing 4 life</title>
+    <link>https://computing4life.github.io/categories/meta/</link>
+    <description>Recent content in Meta on Computing 4 life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2017 13:53:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://computing4life.github.io/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qué es Computing4Life</title>
+      <link>https://computing4life.github.io/post/que-es/</link>
+      <pubDate>Tue, 23 May 2017 13:53:13 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/post/que-es/</guid>
+      <description>Computing for life nace de la necesidad de presentar la informática como una habilidad útil en la vida diaria, más allá de la carrera de informática y de las asignaturas relacionadas con la tecnología. Financiado por Google dentro de su iniciativa Computer Science 4 High School, ha sido en esta edición la única iniciativa financiada en España.
+C4L incluirá una serie de iniciativas destinadas a la capacitación profesional de profesoras y profesores de Primaria, Secundaria y Bachillerato, tanto en activo como en paro, así como personas en empresas que organicen actividades extraescolares y estudiantes de máster de enseñanzas primarias y secundarias y de grado en Ciencias de la Educación.</description>
+    </item>
+    
+  </channel>
+</rss>

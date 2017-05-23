@@ -8,12 +8,23 @@
   </url>
   
   <url>
+    <loc>https://computing4life.github.io/post/que-es/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://computing4life.github.io/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/about/acerca-de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/capacitaci%C3%B3n-profesional/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,7 +39,62 @@
   </url>
   
   <url>
+    <loc>https://computing4life.github.io/tags/computing-for-life/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/categories/info/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/info/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/life-skills/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/categories/meta/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/meta/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/post/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/steam/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/stem/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://computing4life.github.io/tags/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   

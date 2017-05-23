@@ -10,5 +10,23 @@
 	<atom:link href="https://computing4life.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Info</title>
+      <link>https://computing4life.github.io/categories/info/</link>
+      <pubDate>Tue, 23 May 2017 13:53:13 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/categories/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://computing4life.github.io/categories/meta/</link>
+      <pubDate>Tue, 23 May 2017 13:53:13 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/categories/meta/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
