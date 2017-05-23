@@ -1,0 +1,26 @@
+<nav class="menu" role="navigation" id="main-menu">
+    <input type="checkbox" id="menu">
+    <label for="menu" onclick>Menu</label>
+    <ul class="menu__items">
+        {{ if .Site.Menus.main }}
+        {{ range .Site.Menus.main }}
+        <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ end }}
+        {{ end }}
+        {{ with .Site.Params.twitter }}
+        <li class="twitter">
+            <a href="https://twitter.com/{{ . }}" title="Follow me">Twitter</a>
+        </li>
+        {{ end }}
+        {{ with .Site.Params.github }}
+        <li class="github">
+            <a href="https://github.com/{{ . }}" title="Fork me">GitHub</a>
+        </li>
+        {{ end }}
+        {{ with .Site.Params.linkedin }}
+        <li class="linkedin">
+            <a href="https://fr.linkedin.com/in/{{ . }}" title="About me">LinkedIn</a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>
