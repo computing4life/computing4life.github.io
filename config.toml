@@ -2,6 +2,7 @@ baseurl = "https://computing4life.github.io/"
 languageCode = "en-us"
 title = "Computing 4 life"
 theme = "hugo-frais"
+publishDir = "docs/"
 
 [params]
   description = "Computing for life, una iniciativa de Google y la Oficina de Software Libre de la UGR para formación del profesorado en tecnologías"
