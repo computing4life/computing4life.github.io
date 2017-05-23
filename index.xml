@@ -11,5 +11,24 @@
 	<atom:link href="https://computing4life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://computing4life.github.io/</link>
+      <pubDate>Tue, 23 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://computing4life.github.io/</guid>
+      <description>Computing for life es una iniciativa de la Oficina de Software Libre de la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.
+Por ahora, el sitio está en pruebas. Echamos a andar el 1 de junio.</description>
+    </item>
+    
+    <item>
+      <title>Acerca de Computing 4 life</title>
+      <link>https://computing4life.github.io/about/acerca-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://computing4life.github.io/about/acerca-de/</guid>
+      <description>Computing for life Computing for life es una iniciativa de la Oficina de Software Libre de la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.</description>
+    </item>
+    
   </channel>
 </rss>
