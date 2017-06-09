@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flipped Learning on Computing 4 life</title>
+    <link>https://computing4life.github.io/tags/flipped-learning/</link>
+    <description>Recent content in Flipped Learning on Computing 4 life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2017 13:12:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://computing4life.github.io/tags/flipped-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootcamp Computing 4 Life</title>
+      <link>https://computing4life.github.io/post/bootcamp/</link>
+      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/post/bootcamp/</guid>
+      <description>Un bootcamp es un curso intensivo que mezcla aprendizaje y puesta en práctica del mismo. Como primera actividad de este proyecto, lanzamos el BootCamp UGR/Google Computing for Life que tendrá lugar de los próximos 3 a 6 de julio de 2017. El bootcamp incluirá, además, prácticas monitorizadas en los campus infantil y de chicas organizados por la OSL
+Dónde El bootcamp tendrá lugar en la ETSIIT, en Parque Almunia, escuela universitaria donde se enseña Informática y Telecomunicaciones</description>
+    </item>
+    
+  </channel>
+</rss>

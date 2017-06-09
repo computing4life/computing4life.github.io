@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>Cursos</title>
+      <link>https://computing4life.github.io/categories/cursos/</link>
+      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/categories/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eventos</title>
+      <link>https://computing4life.github.io/categories/eventos/</link>
+      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/categories/eventos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Info</title>
       <link>https://computing4life.github.io/categories/info/</link>
       <pubDate>Tue, 23 May 2017 13:53:13 +0200</pubDate>
@@ -25,24 +43,6 @@
       <pubDate>Tue, 23 May 2017 13:53:13 +0200</pubDate>
       
       <guid>https://computing4life.github.io/categories/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X</title>
-      <link>https://computing4life.github.io/categories/x/</link>
-      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
-      
-      <guid>https://computing4life.github.io/categories/x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Y</title>
-      <link>https://computing4life.github.io/categories/y/</link>
-      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
-      
-      <guid>https://computing4life.github.io/categories/y/</guid>
       <description></description>
     </item>
     
