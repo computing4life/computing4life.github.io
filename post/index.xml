@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2017 13:53:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jun 2017 13:12:32 +0200</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://computing4life.github.io/post/bootcamp/</link>
+      <pubDate>Fri, 09 Jun 2017 13:12:32 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/post/bootcamp/</guid>
+      <description>Un bootcamp es un curso intensivo que mezcla aprendizaje y puesta en práctica del mismo. Como primera actividad de este proyecto, lanzamos el BootCamp UGR/Google Computing for Life que tendrá lugar de los próximos 3 a 6 de julio de 2017. El bootcamp incluirá, además, prácticas monitorizadas en los campus infantil y de chicas organizados por la OSL
+Dónde El bootcamp tendrá lugar en la ETSIIT, en Parque Almunia, escuela universitaria donde se enseña Informática y Telecomunicaciones</description>
+    </item>
     
     <item>
       <title>Qué es Computing4Life</title>

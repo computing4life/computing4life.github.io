@@ -1,9 +1,9 @@
 +++
-categories = ["x","y"]
+categories = ["cursos","eventos"]
 date = "2017-06-09T13:12:32+02:00"
-description = ""
-tags = ["x","y"]
-title = ""
+description = "Anuncio del bootcamp de julio"
+tags = ["ABP","enseñanza","flipped learning","computational thinking", "pensamiento computacional", "scratch"]
+title = "Bootcamp Computing 4 Life"
 
 +++
 
