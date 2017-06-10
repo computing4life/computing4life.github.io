@@ -7,8 +7,9 @@ publishDir = "."
 [params]
   description = "Computing for life, una iniciativa de Google y la Oficina de Software Libre de la UGR para formación del profesorado en tecnologías"
   author = "Oficina de Software Libre"
-  headline = "Computing for life"
-  
+  headline = "Proyecto Computing 4 life"
+  indexHeadline = "Informática para la vida"
+
 [taxonomies]
     category = "categories"
     tag = "tags"
