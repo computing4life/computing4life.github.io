@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://computing4life.github.io/post/cs4hs-clubs/</loc>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://computing4life.github.io/post/bootcamp/</loc>
     <lastmod>2017-06-09T13:12:32+02:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://computing4life.github.io/tags/abp/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -45,13 +50,13 @@
   
   <url>
     <loc>https://computing4life.github.io/tags/computational-thinking/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,36 +68,36 @@
   
   <url>
     <loc>https://computing4life.github.io/categories/cursos/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/tags/ense%C3%B1anza/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/categories/eventos/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/tags/flipped-learning/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://computing4life.github.io/tags/info/</loc>
-    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/categories/info/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://computing4life.github.io/tags/info/</loc>
     <lastmod>2017-05-23T13:53:13+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -104,32 +109,32 @@
   </url>
   
   <url>
-    <loc>https://computing4life.github.io/tags/meta/</loc>
-    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://computing4life.github.io/categories/meta/</loc>
     <lastmod>2017-05-23T13:53:13+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://computing4life.github.io/tags/meta/</loc>
+    <lastmod>2017-05-23T13:53:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://computing4life.github.io/tags/pensamiento-computacional/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/post/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://computing4life.github.io/tags/scratch/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,7 +152,7 @@
   
   <url>
     <loc>https://computing4life.github.io/tags/</loc>
-    <lastmod>2017-06-09T13:12:32+02:00</lastmod>
+    <lastmod>2017-11-10T13:36:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   

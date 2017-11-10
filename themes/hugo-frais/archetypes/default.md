@@ -1,6 +1,8 @@
 +++
-title = ""
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
+date = {{ .Date }}
 description = ""
-tags = ["x", "y"]
-categories = ["x", "y"]
+tags = ["ABP","enseñanza","flipped learning","computational thinking", "pensamiento computacional", "scratch"]
+categories = ["cursos","eventos"]
+draft = true
 +++
