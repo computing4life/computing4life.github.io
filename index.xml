@@ -6,10 +6,29 @@
     <description>Recent content on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 13:36:23 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 09:30:03 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inscripción abierta en el Computing 4 life Club</title>
+      <link>https://computing4life.github.io/post/inscripcion_abierta_en_el_computing_4_life_club/</link>
+      <pubDate>Mon, 20 Nov 2017 09:30:03 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/inscripcion_abierta_en_el_computing_4_life_club/</guid>
+      <description>Ya tenemos fechas para las actividades del Computing 4 life Club:
+30 Noviembre 2017:
+Qué es el software libre. Qué es la comunidad. Cómo crear proyectos colaborativamente usando git.
+7 Diciembre 2017:
+Informática sin programación: usando actividad física para explicar conceptos de programación.
+14 Diciembre 2017:
+Iniciación a la programación creativa usando Scratch/WoofJS/GP.
+21 Diciembre 2017:
+Creación de material para enseñanza del pensamiento computacional.
+28 Diciembre 2017:
+Creación de material para enseñanza del pensamiento computacional.</description>
+    </item>
     
     <item>
       <title>CS4HS Clubs</title>
