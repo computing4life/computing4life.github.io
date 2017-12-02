@@ -13,5 +13,5 @@ C4L incluirá una serie de iniciativas destinadas a la capacitación profesional
 
 El campamento y los clubes tratarán de animar a docentes presentes y futuros a elaborar su propio material explicando conceptos tecnológicos y aplicándolos a cualquier disciplina, en un enfoque integrado. Les ayudará a usar la técnica de *aprendizaje invertido* y *basado en proyectos* para involucrar al estudiante en un ambiente de aprendizaje autónomo y con amplio margen para la creatividad. 
 
-Durante el mes de junio iremos anunciando las diferentes actividades. Mientras tanto, permanezcan atentos a esta web y al [Twitter de la OSL `@oslugr`](http://twitter.com/oslugr) donde iremos informando, junto con el [canal de Telegram](https://telegram.me/computing4lifeGranada) de anuncios.
+Durante el mes de junio iremos anunciando las diferentes actividades. Mientras tanto, permanezcan atentos a esta web y al [Twitter de la Granada Hacklab `@grhacklab`](https://twitter.com/grhacklab) donde iremos informando, junto con el [canal de Telegram](https://telegram.me/computing4lifeGranada) de anuncios.
 
