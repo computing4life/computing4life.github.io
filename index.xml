@@ -27,17 +27,10 @@ Los talleres son gratuitos, aún hay plazas libres, y es posible apuntarse en es
       <pubDate>Mon, 20 Nov 2017 09:30:03 +0100</pubDate>
       
       <guid>https://computing4life.github.io/post/inscripcion_abierta_en_el_computing_4_life_club/</guid>
-      <description>Ya tenemos fechas para las actividades del Computing 4 life Club:
-30 Noviembre 2017:
-Qué es el software libre. Qué es la comunidad. Cómo crear proyectos colaborativamente usando git.
-7 Diciembre 2017:
-Informática sin programación: usando actividad física para explicar conceptos de programación.
-14 Diciembre 2017:
-Iniciación a la programación creativa usando Scratch/WoofJS/GP.
-21 Diciembre 2017:
-Creación de material para enseñanza del pensamiento computacional.
-28 Diciembre 2017:
-Creación de material para enseñanza del pensamiento computacional.</description>
+      <description>En este club, dirigido a formadores, se busca que se aprenda una nueva forma de hacer llegar la informática a todo el mundo, especialmente desde las escuelas, pero también en las familias.
+El club se desarrollará en una serie de tardes, pudiendo incorporarte en cualquier momento.
+Ya tenemos fechas para las actividades del Computing 4 life Club:
+ 30 Noviembre 2017:: Qué es el software libre. Qué es la comunidad. Cómo crear proyectos colaborativamente usando git.</description>
     </item>
     
     <item>
@@ -66,7 +59,7 @@ Dónde El bootcamp tendrá lugar en la ETSIIT, en Parque Almunia, escuela univer
       <pubDate>Tue, 23 May 2017 12:00:00 +0000</pubDate>
       
       <guid>https://computing4life.github.io/</guid>
-      <description>Computing for life es una iniciativa de la Oficina de Software Libre de la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.
+      <description>Computing for life es una iniciativa del Granada Hacklab y la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.
 Por ahora, el sitio está en pruebas. Echamos a andar el 1 de junio.
 Para manteneros informados de las novedades, suscribiros al canal de Telegram Computing4life Granada.</description>
     </item>
@@ -87,7 +80,7 @@ C4L incluirá una serie de iniciativas destinadas a la capacitación profesional
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://computing4life.github.io/about/acerca-de/</guid>
-      <description>Computing for life Computing for life es una iniciativa de la Oficina de Software Libre de la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.</description>
+      <description>Computing for life Computing for life es una iniciativa de Granada Hacklab y de la Universidad de Granada financiada por Google dentro del programa Computer Science for High Schools.</description>
     </item>
     
   </channel>
