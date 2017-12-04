@@ -3,6 +3,10 @@ title: "Inscripción abierta en el Computing 4 life Club"
 date: 2017-11-20T09:30:03+01:00
 ---
 
+En este *club*, dirigido a formadores, se busca que se aprenda una nueva forma de hacer llegar la informática a todo el mundo, especialmente desde las escuelas, pero también en las familias.
+
+El club se desarrollará en una serie de tardes, pudiendo incorporarte en cualquier momento.
+
 Ya tenemos fechas para las actividades del Computing 4 life Club: 
 
 - **30 Noviembre 2017:**: Qué es el software libre. Qué es la comunidad. Cómo crear proyectos colaborativamente usando git.
