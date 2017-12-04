@@ -6,10 +6,20 @@
     <description>Recent content on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2017 09:30:03 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 10:42:59 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Primer Dia Y Cambio De Fechas</title>
+      <link>https://computing4life.github.io/post/primer-dia-y-cambio-de-fechas/</link>
+      <pubDate>Mon, 04 Dec 2017 10:42:59 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/primer-dia-y-cambio-de-fechas/</guid>
+      <description>El jueves pasado comenzamos con nuestro primer taller. Hablamos de lo que es el pensamiento computacional, vimos algunas de las herramientas que vamos a utilizar en nuestros proyectos, nos abrimos una cuenta en github, aprendimos algo de markdown, el lenguaje de marcas para los que no les gustan los lenguajes de marcas, y nos apuntamos al grupo de Telegram del club.
+Los talleres son gratuitos, aún hay plazas libres, y es posible apuntarse en este formulario.</description>
+    </item>
     
     <item>
       <title>Inscripción abierta en el Computing 4 life Club</title>
