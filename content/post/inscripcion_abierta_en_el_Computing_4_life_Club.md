@@ -9,17 +9,27 @@ El club se desarrollará en una serie de tardes, pudiendo incorporarte en cualqu
 
 Ya tenemos fechas para las actividades del Computing 4 life Club: 
 
-- **30 Noviembre 2017**: Qué es el software libre. Qué es la comunidad. Cómo crear proyectos colaborativamente usando git.
+[EDITADO] Las [fechas han cambiado](https://computing4life.github.io/post/primer-dia-y-cambio-de-fechas/) desde la primera versión de este artículo, y ahora son:
 
-- **7 Diciembre 2017**: Informática sin programación: usando actividad física para explicar conceptos de programación.
+**14 Diciembre 2017:**
 
-- **14 Diciembre 2017**: Iniciación a la programación creativa usando Scratch/WoofJS/GP.
+Informática sin programación: usando actividad física para explicar conceptos de programación.
 
-- **21 Diciembre 2017**: Creación de material para enseñanza del pensamiento computacional. 
+**21 Diciembre 2017:**
 
-- **28 Diciembre 2017**: Creación de material para enseñanza del pensamiento computacional.
+Iniciación a la programación creativa usando Scratch/WoofJS/GP.
 
-- **04 Enero 2018**: Presentación de los proyectos.
+**11 Enero 2017:**
+
+Creación de material para enseñanza del pensamiento computacional. 
+
+**18 Enero 2018:**
+
+Creación de material para enseñanza del pensamiento computacional.
+
+**25 Enero 2018:**
+
+Presentación de los proyectos.
 
 Todas las actividades se celebrarán de 19:00 a 21:00 en el aula -1.1 de la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicaciones.
 
