@@ -6,10 +6,23 @@
     <description>Recent content on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2017 11:31:33 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 16:28:12 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computación Sin Computador</title>
+      <link>https://computing4life.github.io/post/computaci%C3%B3n-sin-computador/</link>
+      <pubDate>Thu, 14 Dec 2017 16:28:12 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/computaci%C3%B3n-sin-computador/</guid>
+      <description>Algunos ejemplos interesantes de cómo enseñar conceptos de pensamiento computacional a través de la ejecución individual o en equipo de tareas manuales o ejercicios físcios.
+Conceptos a tratar  Pensamiento computacional Algoritmo Secuencia Bucle Iteración Subrutina Recursividad  Describiendo Loops Un ejercicio corporal para enseñar los conceptos de bucle e iteración.
+Descripción del ejercicio: https://code.org/curriculum/course1/12/Teacher
+Guía visual: https://code.org/curriculum/course1/12/Activity12-GettingLoopy.pdf
+Programando un baile Diseño de bailes y coreografías al estilo informático, siguiendo un proceso de elaboración conjunta, con test, &amp;ldquo;debugeando&amp;rdquo;, etc&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Qué Es El Pensamiento Computacional</title>
