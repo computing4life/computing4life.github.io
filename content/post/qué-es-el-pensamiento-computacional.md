@@ -22,3 +22,4 @@ Nos vemos el próximo jueves 14 de 19:00 a 21:00 en el aula -1.1 de la Escuela T
 Las [inscripciones siguen abiertas](https://docs.google.com/forms/d/e/1FAIpQLSdkZWGK7-mON5RPcssywNvOMOUwtSMQs3Mf7XfyzKM35M07YQ/viewform?usp=sf_link)
 
 Más información en nuestro [grupo de Telegram](https://t.me/joinchat/AF3l6wyRY8ba8eNPE5BGIA)
+
