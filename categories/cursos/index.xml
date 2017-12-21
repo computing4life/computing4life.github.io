@@ -6,10 +6,20 @@
     <description>Recent content in Cursos on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2017 16:28:12 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2017 13:23:44 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/categories/cursos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Programación Fácil Para Peques</title>
+      <link>https://computing4life.github.io/post/programacion-facil-para-peques/</link>
+      <pubDate>Thu, 21 Dec 2017 13:23:44 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/programacion-facil-para-peques/</guid>
+      <description>En el taller de esta tarde vamos a experimentar con algunos recurso útiles para que niñas y niños aprendan a programar. ¡Ojo! Fácil no quiere decir simple o limitado.
+Scratch:  Scratch scratch help Manual Scratch (PDF) FAQ Tarjetas Videotutoriales Foros  Otros recursos:  Snap! CodeCombat Aprender a programar jugando) Star Wars Programar con Elsa y Anna (Frozen) Blocky Games Game of Codes Logo (más como una curiosidad histórica que otra cosa) Code.</description>
+    </item>
     
     <item>
       <title>Computación Sin Computador</title>
