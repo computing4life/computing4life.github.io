@@ -1,5 +1,5 @@
 +++
-title = "Nueva edición de Computer4Life"
+title = "Nueva edición de Computing4Life"
 date = 2018-02-12T12:50:51+01:00
 description = ""
 tags = ["ABP","enseñanza","flipped learning","computational thinking", "pensamiento computacional", "scratch"]
