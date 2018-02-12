@@ -6,10 +6,22 @@
     <description>Recent content on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2017 13:23:44 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2018 12:50:51 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nueva edición de Computer4Life</title>
+      <link>https://computing4life.github.io/post/inscripcion-2/</link>
+      <pubDate>Mon, 12 Feb 2018 12:50:51 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/inscripcion-2/</guid>
+      <description>Ya tenemos fechas para la próxima fase de Computer4Life, y se ha abierto el plazo de inscripción.
+Esta actividad está dirigida a formadores, pero abierta a cualquier persona interesada. Se busca que se aprenda una nueva forma de hacer llegar la informática a todo el mundo, especialmente desde las escuelas, pero también en las familias.
+Todas las sesiones serán en horario de tarde, de 19:00 a 21:00.
+22 de Febrero El software libre.</description>
+    </item>
     
     <item>
       <title>Programación Fácil Para Peques</title>
