@@ -11,24 +11,24 @@ Ya tenemos fechas para la próxima fase de <a href="https://computing4life.githu
 
 Esta actividad está dirigida a formadores, pero abierta a cualquier persona interesada. Se busca que se aprenda una nueva forma de hacer llegar la informática a todo el mundo, especialmente desde las escuelas, pero también en las familias.
 
-Todas las sesiones serán en horario de tarde, de 19:00 a 21:00.
+Todas las sesiones serán los martes, en horario de tarde, de 19:00 a 21:00.
 
-### 22 de Febrero
+### 27 de Febrero
 El software libre. La comunidad. Pensamiento computacional. Crear proyectos colaborativamente.
 
-### 1 de Marzo
+### 6 de Marzo
 Informática sin programación: usando actividad física para explicar conceptos de programación.
 
-### 8 de Marzo
+### 13 de Marzo
 Iniciación a la programación creativa usando Scratch/WoofJS/GP.
 
-### 15 de Marzo
+### 20 de Marzo
 Creación de material para enseñanza del pensamiento computacional.
 
-### 22 de Marzo
+### 27 de Marzo
 Creación de material para enseñanza del pensamiento computacional.
 
-### 29 de Marzo
+### 3 de Abril
 Presentación de proyectos
 
 Las sesiones se llevarán a cabo en el aula -1.1 de la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicaciones.
