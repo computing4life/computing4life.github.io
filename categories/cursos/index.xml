@@ -6,10 +6,20 @@
     <description>Recent content in Cursos on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 17:23:28 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 13:23:44 +0100</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/categories/cursos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Enseñando Programación</title>
+      <link>https://computing4life.github.io/post/ense%C3%B1ando-programaci%C3%B3n/</link>
+      <pubDate>Tue, 13 Mar 2018 13:23:44 +0100</pubDate>
+      
+      <guid>https://computing4life.github.io/post/ense%C3%B1ando-programaci%C3%B3n/</guid>
+      <description>En el taller de esta tarde vamos a experimentar con algunos recurso útiles para que niñas y niños aprendan a programar. ¡Ojo! Fácil no quiere decir simple o limitado.
+Scratch:  Scratch scratch help Manual Scratch (PDF) FAQ Tarjetas Videotutoriales Foros  Otros recursos:  Snap! CodeCombat Aprender a programar jugando) Star Wars Programar con Elsa y Anna (Frozen) Blocky Games Game of Codes Logo (más como una curiosidad histórica que otra cosa) Code.</description>
+    </item>
     
     <item>
       <title>Sesion 1</title>
