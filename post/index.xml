@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Computing 4 life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Mar 2018 12:50:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 12:19:01 +0200</lastBuildDate>
     
 	<atom:link href="https://computing4life.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Taller De Scratch</title>
+      <link>https://computing4life.github.io/post/taller-de-scratch/</link>
+      <pubDate>Mon, 16 Apr 2018 12:19:01 +0200</pubDate>
+      
+      <guid>https://computing4life.github.io/post/taller-de-scratch/</guid>
+      <description>El próximo martes día 24 de abril tenemos programado un taller de iniciación a la programación con Scratch.
+Será en horario de tarde, de 19:00 a 21:00, en el aula -1.1 de la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicaciones.
+Conoceremos de forma práctica este fácil y divertido modo de programar historias y videojuegos especialmente orientado a los más pequeños.
+El taller se ejecutará en los ordenadores de la Escuela, y no se requieren materiales adicionales ni conocimientos previos.</description>
+    </item>
     
     <item>
       <title>Última edición de Computing4Life</title>
