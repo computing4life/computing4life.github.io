@@ -15,4 +15,4 @@ Conoceremos de forma práctica este fácil y divertido modo de programar histori
 
 El taller se ejecutará en los ordenadores de la Escuela, y no se requieren materiales adicionales ni conocimientos previos.
 
-Este taller es abierto y gratuito, y está orientado a personas de todas las edades hasta completar las plazas disponibles, aunque ruega inscribirse en este <a href="https://docs.google.com/forms/d/e/1FAIpQLScQvB-_NqwLRQzNHqj6Q2oBscckNt6JE6SlGQw0BMde_eitbg/viewform?usp=sf_link">formulario de inscripción</a> con fines organizativos.
+Este taller es abierto y gratuito, y está orientado a adultos y niños acompañados de todas las edades, hasta completar las plazas disponibles, aunque ruega inscribirse en este <a href="https://docs.google.com/forms/d/e/1FAIpQLScQvB-_NqwLRQzNHqj6Q2oBscckNt6JE6SlGQw0BMde_eitbg/viewform?usp=sf_link">formulario de inscripción</a> con fines organizativos.
