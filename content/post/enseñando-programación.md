@@ -48,7 +48,7 @@ En el taller de esta tarde vamos a experimentar con algunos recurso útiles para
 
 ### Robótica
 
-- [Porgramación + Robótica + Arte](https://dev.to/terceranexus6/hardware--collaborative-art-400h)
+- [Programación + Robótica + Arte](https://dev.to/terceranexus6/hardware--collaborative-art-400h)
 - [Arduino](https://www.arduino.cc/)
 - [Mbot](http://openxxi.blogspot.com.es/2015/12/mbot-el-kit-de-robotica-para-ninos.html)
 - [Lego Mindstorms] (https://www.lego.com/es-es/mindstorms)
